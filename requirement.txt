@@ -1,4 +1,6 @@
 streamlit
-numpy
 tensorflow
+Pillow
+numpy
 matplotlib
+
